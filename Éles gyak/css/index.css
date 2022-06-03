@@ -1,0 +1,32 @@
+h1 {
+    color: blue;
+    font-family: 'Kodchasan', sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-family: sans-serif;
+
+}
+
+#pizza{
+color: brown;
+text-align: center;
+font-size: large;
+font-weight: 850;
+}
+
+#hamburger{
+    color: firebrick;
+    text-align: center;
+    font-size: medium;
+    font-weight: 900;
+}
+
+#tortilla{
+    color: chocolate;
+    text-align: center;
+    font-size: x-large;
+    font-style: initial;
+    font-weight: 600;
+}
